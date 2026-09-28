@@ -16,7 +16,7 @@ authors:
 version: "1.0.0"
 date-released: 2026-09-27
 license: "GPL-3.0"
-repository-code: "https://github.com/TEC-USUARIO/ProData"
+repository-code: "https://github.com/TEC-CR/ProData"
 
 abstract: "Programa de análisis estadístico desarrollado para apoyar la enseñanza y el aprendizaje del análisis estadístico en cursos del Tecnológico de Costa Rica."
 
