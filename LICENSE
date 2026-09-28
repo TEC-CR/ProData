@@ -1,0 +1,30 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2026 Dr. Esteban Lemaitre Gonzalez
+
+Este programa se distribuye bajo los términos de la GNU General Public License v3.0.
+Usted puede usar, modificar y distribuir este software bajo las condiciones de dicha licencia.
+
+Texto completo disponible en:
+https://www.gnu.org/licenses/gpl-3.0.txt
+
+
+RESUMEN: de la GPLv3 (10 páginas en breve)
+La GNU General Public License v3.0 (GPLv3) es una licencia de software libre que garantiza que los usuarios tengan las siguientes libertades:
+
+*Usar el software para cualquier propósito.
+*Estudiar cómo funciona el software y modificarlo.
+*Distribuir copias del software.
+*Mejorar el software y compartir esas mejoras con la comunidad.
+
+Puntos clave:
+Copyleft: cualquier distribución de este software (modificado o no) debe mantener la misma licencia GPLv3.
+
+Compatibilidad: permite combinar el código con librerías de licencias permisivas (MIT, BSD, Apache 2.0).
+
+Protección contra restricciones: prohíbe que alguien distribuya tu software con medidas que limiten esas libertades (ej. DRM).
+
+Patentes: incluye cláusulas para proteger a los usuarios contra demandas de patentes relacionadas con el software.
+
+Aviso de cambios: si alguien modifica el programa, debe dejar claro qué cambió y mantener la licencia.

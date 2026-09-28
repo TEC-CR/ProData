@@ -1,0 +1,29 @@
+
+Este archivo permite que otros investigadores citen el software correctamente en GitHub.
+
+```yaml
+
+cff-version: 1.2.0
+title: "ProData"
+message: "Si utilizas este software "ProData", en una publicación, curso, investigación o trabajo académico, por favor cite como se indica."
+type: software
+authors:
+  - family-names: "Lemaitre Gonzalez"
+    given-names: "Esteban"
+    name-suffix: "Dr."
+    orcid: "https://orcid.org/0000-0002-8827-5660"
+    affiliation: "Tecnológico de Costa Rica"
+version: "1.0.0"
+date-released: 2026-09-27
+license: "GPL-3.0"
+repository-code: "https://github.com/TEC-USUARIO/ProData"
+
+abstract: "Programa de análisis estadístico desarrollado para apoyar la enseñanza y el aprendizaje del análisis estadístico en cursos del Tecnológico de Costa Rica."
+
+keywords:
+  - statistics
+  - statistical analysis
+  - education
+  - Tecnológico de Costa Rica
+  - TEC
+  - ProData
