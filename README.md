@@ -1,3 +1,6 @@
+# ProData
+ProData es una herramienta en Python para realizar análisis estadísticos, pruebas de hipótesis, intervalos de confianza y estudios de confiabilidad.  
+
 <div align="center">
   <h1>ProData</h1>
   <p><b>Software de análisis estadístico y confiabilidad</b></p>
