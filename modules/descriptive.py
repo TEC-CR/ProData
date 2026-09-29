@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy.stats import skew, kurtosis
+from scipy.stats import skew, kurtosis, shapiro
+
 
 def descriptive_stats(data):
 
@@ -32,3 +33,23 @@ def histogram(data):
     ax.set_ylabel("Frecuencia")
 
     return fig
+
+def boxplot(data):
+
+    fig, ax = plt.subplots()
+
+    ax.boxplot(data)
+
+    ax.set_title("Diagrama de Caja")
+
+    return fig
+
+
+from scipy.stats import shapiro
+
+
+def shapiro_test(data):
+
+    stat, p = shapiro(data)
+
+    return stat, p

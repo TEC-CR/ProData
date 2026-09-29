@@ -19,6 +19,7 @@ license: "GPL-3.0"
 repository-code: "https://github.com/TEC-CR/ProData"
 
 abstract: "Programa de análisis estadístico desarrollado para apoyar la enseñanza y el aprendizaje del análisis estadístico en cursos del Tecnológico de Costa Rica."
+url: "https://github.com/TEC-CR/ProData"
 
 keywords:
   - statistics
